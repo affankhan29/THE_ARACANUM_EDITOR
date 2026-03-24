@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="THE_ARACANUM_EDITOR/THE_ARACANUM_EDITOR.vcxproj" Id="f87e4fc3-95d0-45e6-920d-1993d2974394" />
+</Solution>
